@@ -11,6 +11,7 @@ public class FifthQuestion {
 		
 	}
 
+	//Fcatorial
 	public static void factorial() {
 
 		Scanner sc = new Scanner(System.in);
